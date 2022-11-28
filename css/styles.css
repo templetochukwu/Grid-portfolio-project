@@ -276,6 +276,12 @@ Navbar
 }
 
 
+.side__nav__icon {
+  width: 4rem;
+  height: 3rem;
+}
+
+
 .media__1 {
   width: 2rem !important;
 }
