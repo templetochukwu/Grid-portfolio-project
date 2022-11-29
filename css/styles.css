@@ -256,6 +256,13 @@ Navbar
 }
 
 
+.about__me__text {
+  text-align: justify;
+  font-size: 18px;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+
 .copy__right {
   color: var(--clr-primary-5);
 }
@@ -656,6 +663,7 @@ Connect
 }
 .video-text {
   max-width: 30rem;
+  text-align: justify;
 }
 .video-banner {
   background: var(--clr-primary-10);
